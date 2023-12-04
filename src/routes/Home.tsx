@@ -1,5 +1,4 @@
 /* eslint-disable @typescript-eslint/no-unused-vars */
-import React from 'react'
 import Search from '../components/Search'
 import { UserProps } from '../types/User'
 import User from '../components/User'
